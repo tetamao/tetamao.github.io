@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+# Site settings
+title: tetamao Blog    				  	#你博客的标题
+SEOTitle: 你的博客 | tetamao Blog    	 #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
+email: guohuaoct17@gmail.com	
+description: "Welcome to my home!!"  			 #网站介绍
+keyword: "GH, GH Blog, 郭华的博客, 郭华, tetamao, iOS, Apple, iPhone" #关键词
+url: "https://tetamao.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
